@@ -12,4 +12,6 @@ GUI loads .obj files and displays them in 3D
    
 4. Activate the conda environment by running:
    ```conda activate renderGUI```
-
+   
+6. Run the programme by:
+   ```python renderObj.py```
