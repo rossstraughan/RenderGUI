@@ -1,4 +1,4 @@
-name: renderGUI
+name: RenderGUI
 channels:
   - defaults
 dependencies:
@@ -61,4 +61,4 @@ dependencies:
     - pyqt5==5.15.10
     - pyqt5-qt5==5.15.2
     - pyqt5-sip==12.13.0
-prefix: C:\APPS\Anaconda3\envs\renderGUI
+prefix: C:\APPS\Anaconda3\envs\RenderGUI
