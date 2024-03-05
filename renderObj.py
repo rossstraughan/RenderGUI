@@ -67,7 +67,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # Create a mapper and actor for the .obj geometry.
         mapper = vtk.vtkPolyDataMapper()
-        mapper.SetInput(reader.GetOutput())
+        mapper.SetInputData(reader.GetOutput())
         actor = vtk.vtkActor()
         actor.SetMapper(mapper)
 
