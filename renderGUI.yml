@@ -1,4 +1,4 @@
-name: RenderGUI
+name: renderGUI
 channels:
   - defaults
 dependencies:
